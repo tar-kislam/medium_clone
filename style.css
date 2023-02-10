@@ -21,3 +21,16 @@
 .collapse li{
     font-weight: bold;
 }
+
+.discover{
+    text-decoration: none;
+    color: black;
+}
+
+.discover:hover{
+    color: black;
+}
+
+#turkey{
+    background-color: rgba(242, 242, 242, 1) !important;
+}
